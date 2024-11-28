@@ -9,20 +9,21 @@ redirect_from:
 
 I received the B.E. degree in information and computing science and the M.E. degree in operational research and cybernetics from Lanzhou Jiaotong University, Lanzhou, China, in 2007 and 2010, respectively, and the Ph.D. degree in computer science from Peking University, Beijing, China, in 2015. I’m a Professor at the Institute of Computing Science and Technology, Guangzhou University, Guangzhou, China. My current research interests include theoretical, algorithmic, and applied research on hard problems.
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Recent Paper:
+1. A dual-mode local search algorithm for solving the minimum dominating set problem. E Zhu, Y Zhang, S Wang, D Strash, C Liu. Knowledge-Based Systems, 2024, 298, 111950
+1. Boosting Reinforcement Learning via Hierarchical Game Playing With State Relay. C Liu, J Cong, G Liu, G Jiang, X Xu, E Zhu. IEEE Transactions on Neural Networks and Learning Systems, 2024.
+1. Social Behavior Analysis in Exclusive Enterprise Social Networks by FastHAND. Y Yang, F Wang, E Zhu, F Jiang, W Yao. ACM Transactions on Knowledge Discovery from Data, 2024, 18 (6), 1-32
+1. PHEE: Identifying influential nodes in social networks with a phased evaluation-enhanced search. E Zhu, H Wang, Y Zhang, K Zhang, C Liu. Neurocomputing, 2024, 572, 127195
+1. iLSGRN: inference of large-scale gene regulatory networks based on multi-model fusion.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+1. Total domination and open packing in some chemical graphs. Y Gao, E Zhu, Z Shao, I Gutman, A Klobučar. Journal of Mathematical Chemistry, 2018, 56, 1481-1492.
+1. On graphs with the maximum edge metric dimension. E Zhu, A Taranenko, Z Shao, J Xu. Discrete Applied Mathematics, 2019, 257, 317-324
+1. On dominating sets of maximal outerplanar and planar graphs. Z Li, E Zhu, Z Shao, J Xu. Discrete Applied Mathematics, 2016, 198, 164-169
+1. Cross-inhibitor: a time-sensitive molecular circuit based on DNA strand displacement. C Liu, Y Liu, E Zhu, Q Zhang, X Wei, B Wang. Nucleic acids research, 2020, 48 (19), 10691-10701
+1. Partition independent set and reduction-based approach for partition coloring problem. E Zhu, F Jiang, C Liu, J Xu. IEEE Transactions on Cybernetics, 2020, 52 (6), 4960-4969
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
