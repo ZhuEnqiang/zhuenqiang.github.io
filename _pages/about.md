@@ -26,5 +26,3 @@ Honors and Awards
 - Third Prize of the Liaoning Provincial Natural Science Academic Achievement Award
 - Best Paper Award at the International Conference ISCAI 2023
 - Key Member of the National University "Huang Danian-style" Teacher Team
-
-
