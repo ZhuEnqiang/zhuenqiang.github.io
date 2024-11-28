@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Enqiang Zhu"
-  pronouns         : "he/his"  
-  bio              : "Prof."
+  #pronouns         : "he/his"  
+  bio              : "Institute of Computing Science and Technolog"
   location         : "Guangzhou"
   employer         : "Guangzhou University"
   #uri              : # URL
