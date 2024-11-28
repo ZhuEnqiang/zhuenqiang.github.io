@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yu Zhang"
+  name             : "Enqiang Zhu"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Prof."
   location         : "Guangzhou"
   employer         : "Guangzhou University"
-  uri              : # URL
+  #uri              : # URL
   email            : "yuzhang.cs@stu.pku.edu.cn" 
 
   # Academic websites
