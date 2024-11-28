@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I received the Ph.D. degree in computer science from Peking University, Beijing, China, in 2015. I’m a Professor at the Institute of Computing Science and Technology, Guangzhou University, Guangzhou, China. My current research interests include theoretical, algorithmic, and applied research on hard problems.
 
 Educations
@@ -26,3 +35,7 @@ Honors and Awards
 - Third Prize of the Liaoning Provincial Natural Science Academic Achievement Award
 - Best Paper Award at the International Conference ISCAI 2023
 - Key Member of the National University "Huang Danian-style" Teacher Team
+
+For more info
+------
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
